@@ -11,6 +11,6 @@ int main() {
 			del = n / i;
 			std::cout << "Diliteli chisla n:  " << del << std::endl;
 		}
-		//else continue;
 	}
+	return 0;
 }
