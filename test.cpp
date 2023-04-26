@@ -1,9 +1,7 @@
 #include <iostream>
 int main() {
-	setlocale(LC_ALL, "Russian");
-
-	int n = 0;
-	int del = 0;
+	int n;
+	int del;
 	std::cout << "VVedite n: ";
 	std::cin >> n;
 	for (int i = 1; i < n; i++) {
